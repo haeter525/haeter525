@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**haeter525/haeter525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm the Triage Team Lead of [Quark-Engine](https://github.com/quark-engine/quark-engine).
 
-Here are some ideas to get you started:
+Here are my responsibilities as a Triage Team Lead:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Manage issues within the Quark Github organization.
+2. Manage PRs within the Quark Github organization.
+3. Manage the releases of Quark.
+
+Here are what I did previously as a Core Member:
+
+1. Build a new [Rizin](https://github.com/rizinorg/rizin)-based analysis library for Quark.
+2. Build [GhidraQuark](https://github.com/quark-engine/ghidraquark), a plugin that bridges Quark to [Ghidra](https://ghidra-sre.org/).
+3. Build Behavior Map, a comprehensive call graph for Quark.
+4. Improve the simulation of Quark's Dalvik bytecode loader.
