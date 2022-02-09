@@ -2,7 +2,7 @@
 
 I'm the Triage Team Lead of [Quark-Engine](https://github.com/quark-engine/quark-engine).
 
-Here are my responsibilities as a Triage Team Lead:
+Here are what I do as a Triage Team Lead:
 
 1. Manage issues within the Quark Github organization.
 2. Manage PRs within the Quark Github organization.
